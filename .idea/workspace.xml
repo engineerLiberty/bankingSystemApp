@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25851917-27fc-434d-88ac-14a807497b33" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CALCULATION-ANONYMOUS-FUNCTION.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AccountBalance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Calculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
-    </list>
+    <list default="true" id="25851917-27fc-434d-88ac-14a807497b33" name="Changes" comment="a project combination of a banking system and some mathematical operation to aid my learning process" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +56,21 @@
       <option name="presentableId" value="Default" />
       <updated>1663946738993</updated>
     </task>
+    <task id="LOCAL-00001" summary="a project combination of a banking system and some mathematical operation to aid my learning process">
+      <created>1663959132534</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663959132534</updated>
+    </task>
+    <task id="LOCAL-00002" summary="a project combination of a banking system and some mathematical operation to aid my learning process">
+      <created>1663959170582</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663959170582</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,5 +83,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="a project combination of a banking system and some mathematical operation to aid my learning process" />
+    <option name="LAST_COMMIT_MESSAGE" value="a project combination of a banking system and some mathematical operation to aid my learning process" />
   </component>
 </project>
